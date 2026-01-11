@@ -1,10 +1,11 @@
 {
   "name": "esa-snake",
-  "entry": "",
+  "entry": "/index.html",
   "installCommand": "",
   "buildCommand": "",
   "assets": {
     "directory": "./",
-    "notFoundStrategy": "singlePageApplication"
+    "notFoundStrategy": "redirect",
+    "index": "index.html"
   }
 }
