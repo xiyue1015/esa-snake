@@ -1,6 +1,6 @@
 {
   "name": "esa-snake",
-  "entry": "",
+  "entry": "index.html",
   "installCommand": "",
   "buildCommand": "",
   "assets": {
